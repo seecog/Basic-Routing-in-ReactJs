@@ -1,11 +1,11 @@
 import React,{Component} from 'react';
 
-const Error = ()=>{
+const About = ()=>{
 return (
     <div>
-<h1>Inside The Error Page</h1> 
+<h1>Inside The About Page</h1> 
         </div>
 )
 }
 
-export default Error;
+export default About;
